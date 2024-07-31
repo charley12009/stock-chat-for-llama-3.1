@@ -9,7 +9,4 @@
 
 需要注意的是，由於採用API方式直接使用LLAMA 3.1，提供的股票資訊可能不是最新的，建議使用者確認資訊的時效性以做出準確的投資決策。
 
-
-
-https://github.com/user-attachments/assets/7d33cbd7-5532-4c5a-aafc-7187cdf8d590
-
+https://github.com/user-attachments/assets/91a972da-46cd-477a-babd-63f5b453c2b8
